@@ -1,3 +1,3 @@
 # ELM | Big structura
 
-The repository has a basic scaffolding with some basi structure for big apps with elm-lang.
+The repository has a basic scaffolding with base structure for big apps with elm-lang.
