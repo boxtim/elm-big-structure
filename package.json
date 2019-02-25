@@ -1,0 +1,12 @@
+{
+  "name": "elm-big-structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-elm-compiler": "^5.0.1"
+  },
+  "devDependencies": {
+    "elm-hot": "^1.0.1"
+  }
+}
